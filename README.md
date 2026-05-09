@@ -144,7 +144,7 @@ Pillow
 
 ## Notes
 
-- Images are stored in media/images/
+- Images are stored in products/images/
 - Default database is SQLite
 - Tested using Postman
 - Image upload must use form-data
